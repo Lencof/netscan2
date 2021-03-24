@@ -1,5 +1,6 @@
 from setuptools import setup
 import os
+import sys
 from netscan import __version__ as VERSION
 from build_utils import BuildCommand
 from build_utils import PublishCommand
